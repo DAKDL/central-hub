@@ -1,0 +1,18 @@
+input: .
+output: .retype
+branding:
+  title: DAKDL
+  label: Hub
+favicon: static/Frame 1.svg
+links:
+- text: Home
+  link: /
+- text: Resources
+  link: /resources/machine_learning/clustering/
+- text: Contribution
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+editor:
+  enabled: false
