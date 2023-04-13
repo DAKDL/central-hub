@@ -91,6 +91,13 @@ We always appreciate contributions to our project's documentation! To get starte
 ### Step 1
 Choose the appropriate category (folder) for your project. This will help keep our documentation organized and make it easier for others to find what they need. For example, if you are contributing to a project related to machine learning, you would want to add your documentation to the "machine-learning" folder.
 
+```
+|- work_archive/
+|   |- work1/
+|   |   |- title1.md
+|   |- <your work dir>/
+|       |- <your work name>.md
+```
 ### Step 2
 Copy the README file from your project and add it to the folder. This will ensure that your documentation is consistent with the rest of the project and provides a clear overview of your work.
 
