@@ -1,4 +1,5 @@
-- [Adding Resources](/contribute/#adding-resources)
+- [Adding Resources](/contribution/#adding-resources)
+- [Adding Work to Archive](/contribution/#adding-work-to-archive)
 
 ## Adding Resources
 
@@ -81,7 +82,26 @@ View you work, yeahh.
 
 (N/A): Not rate yet.
 ===
+<hr/>
 
+## Adding Work to Archive
 
+We always appreciate contributions to our project's documentation! To get started, follow these steps:
 
+### Step 1
+Choose the appropriate category (folder) for your project. This will help keep our documentation organized and make it easier for others to find what they need. For example, if you are contributing to a project related to machine learning, you would want to add your documentation to the "machine-learning" folder.
+
+### Step 2
+Copy the README file from your project and add it to the folder. This will ensure that your documentation is consistent with the rest of the project and provides a clear overview of your work.
+
+### Step 3
+Add a GitHub icon and link to your repository. This will allow others to easily access your code and provide feedback or suggestions for improvement. For example, you could add an icon like this: <img src="https://github.com/favicon.ico" width="16"> and link it to your GitHub repository like this: [:icon-mark-github: Github]().
+```[:icon-mark-github: Github](link)```
+
+### Step 4
+Open a pull request and request one of our admins to review it. This step is important because it allows us to ensure that all contributions are high quality and consistent with our guidelines. Once your pull request has been reviewed and approved, your contribution will be merged into the main documentation for the project!
+
+<hr/>
+
+Thank you for your interest in contributing to our project's documentation. We look forward to seeing your work! 
 
